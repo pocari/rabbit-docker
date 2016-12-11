@@ -38,5 +38,5 @@ rabbit sample.md
 
 を実行しmac側で下記のスライドが出れば正常にインストール終了。
 
-<img width="400" alt="2016-12-11 23 47 28" src="https://cloud.githubusercontent.com/assets/1496543/21080814/3dec5720-bffc-11e6-8eb6-2a59bb7f1aae.png">
 <img width="400" alt="2016-12-11 23 47 17" src="https://cloud.githubusercontent.com/assets/1496543/21080815/40b1a6e0-bffc-11e6-98ea-04a71909c291.png">
+<img width="400" alt="2016-12-11 23 47 28" src="https://cloud.githubusercontent.com/assets/1496543/21080814/3dec5720-bffc-11e6-8eb6-2a59bb7f1aae.png">
